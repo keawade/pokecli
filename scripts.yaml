@@ -1,0 +1,5 @@
+scripts:
+  cli: mod.ts
+
+allow:
+  - net
