@@ -1,4 +1,6 @@
-# idk cli
+# pokecli
+
+Small project to tinker with Deno cli tooling.
 
 ## Tooling
 
